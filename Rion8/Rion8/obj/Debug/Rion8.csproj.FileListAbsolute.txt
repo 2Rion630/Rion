@@ -1,0 +1,7 @@
+C:\Users\microsoft\Desktop\RIon\Rion\Rion8\Rion8\bin\Debug\Rion8.exe.config
+C:\Users\microsoft\Desktop\RIon\Rion\Rion8\Rion8\bin\Debug\Rion8.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Rion8\Rion8\bin\Debug\Rion8.pdb
+C:\Users\microsoft\Desktop\RIon\Rion\Rion8\Rion8\obj\Debug\Rion8.csproj.AssemblyReference.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Rion8\Rion8\obj\Debug\Rion8.csproj.CoreCompileInputs.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Rion8\Rion8\obj\Debug\Rion8.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Rion8\Rion8\obj\Debug\Rion8.pdb
