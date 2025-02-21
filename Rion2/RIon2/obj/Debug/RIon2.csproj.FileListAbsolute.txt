@@ -1,0 +1,7 @@
+C:\Users\microsoft\Desktop\RIon\RIon2\RIon2\bin\Debug\RIon2.exe.config
+C:\Users\microsoft\Desktop\RIon\RIon2\RIon2\bin\Debug\RIon2.exe
+C:\Users\microsoft\Desktop\RIon\RIon2\RIon2\bin\Debug\RIon2.pdb
+C:\Users\microsoft\Desktop\RIon\RIon2\RIon2\obj\Debug\RIon2.csproj.AssemblyReference.cache
+C:\Users\microsoft\Desktop\RIon\RIon2\RIon2\obj\Debug\RIon2.csproj.CoreCompileInputs.cache
+C:\Users\microsoft\Desktop\RIon\RIon2\RIon2\obj\Debug\RIon2.exe
+C:\Users\microsoft\Desktop\RIon\RIon2\RIon2\obj\Debug\RIon2.pdb

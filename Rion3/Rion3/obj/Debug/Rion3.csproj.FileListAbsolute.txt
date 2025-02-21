@@ -1,0 +1,14 @@
+C:\Users\microsoft\Desktop\RIon\Rion3\Rion3\bin\Debug\Rion3.exe.config
+C:\Users\microsoft\Desktop\RIon\Rion3\Rion3\bin\Debug\Rion3.exe
+C:\Users\microsoft\Desktop\RIon\Rion3\Rion3\bin\Debug\Rion3.pdb
+C:\Users\microsoft\Desktop\RIon\Rion3\Rion3\obj\Debug\Rion3.csproj.AssemblyReference.cache
+C:\Users\microsoft\Desktop\RIon\Rion3\Rion3\obj\Debug\Rion3.csproj.CoreCompileInputs.cache
+C:\Users\microsoft\Desktop\RIon\Rion3\Rion3\obj\Debug\Rion3.exe
+C:\Users\microsoft\Desktop\RIon\Rion3\Rion3\obj\Debug\Rion3.pdb
+C:\Users\microsoft\Desktop\RIon\Rion\Rion3\Rion3\bin\Debug\Rion3.exe.config
+C:\Users\microsoft\Desktop\RIon\Rion\Rion3\Rion3\bin\Debug\Rion3.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Rion3\Rion3\bin\Debug\Rion3.pdb
+C:\Users\microsoft\Desktop\RIon\Rion\Rion3\Rion3\obj\Debug\Rion3.csproj.AssemblyReference.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Rion3\Rion3\obj\Debug\Rion3.csproj.CoreCompileInputs.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Rion3\Rion3\obj\Debug\Rion3.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Rion3\Rion3\obj\Debug\Rion3.pdb
