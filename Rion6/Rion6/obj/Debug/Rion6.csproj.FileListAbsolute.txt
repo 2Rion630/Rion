@@ -1,0 +1,7 @@
+C:\Users\microsoft\Desktop\RIon\Rion\Rion6\Rion6\bin\Debug\Rion6.exe.config
+C:\Users\microsoft\Desktop\RIon\Rion\Rion6\Rion6\bin\Debug\Rion6.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Rion6\Rion6\bin\Debug\Rion6.pdb
+C:\Users\microsoft\Desktop\RIon\Rion\Rion6\Rion6\obj\Debug\Rion6.csproj.AssemblyReference.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Rion6\Rion6\obj\Debug\Rion6.csproj.CoreCompileInputs.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Rion6\Rion6\obj\Debug\Rion6.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Rion6\Rion6\obj\Debug\Rion6.pdb
