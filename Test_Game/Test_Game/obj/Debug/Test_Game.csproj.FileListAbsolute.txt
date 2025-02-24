@@ -1,0 +1,7 @@
+C:\Users\microsoft\Desktop\RIon\Rion\Test_Game\Test_Game\bin\Debug\Test_Game.exe.config
+C:\Users\microsoft\Desktop\RIon\Rion\Test_Game\Test_Game\bin\Debug\Test_Game.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Test_Game\Test_Game\bin\Debug\Test_Game.pdb
+C:\Users\microsoft\Desktop\RIon\Rion\Test_Game\Test_Game\obj\Debug\Test_Game.csproj.AssemblyReference.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Test_Game\Test_Game\obj\Debug\Test_Game.csproj.CoreCompileInputs.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Test_Game\Test_Game\obj\Debug\Test_Game.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Test_Game\Test_Game\obj\Debug\Test_Game.pdb
