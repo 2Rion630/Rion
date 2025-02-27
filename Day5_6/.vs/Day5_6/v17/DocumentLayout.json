@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day5_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA43532-44DA-4DFA-9317-EC2CFD0BA783}|Day5_6\\Day5_6.csproj|c:\\users\\microsoft\\desktop\\rion\\rion\\day5_6\\day5_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA43532-44DA-4DFA-9317-EC2CFD0BA783}|Day5_6\\Day5_6.csproj|solutionrelative:day5_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day5_6\\Day5_6\\Program.cs",
+              "RelativeDocumentMoniker": "Day5_6\\Program.cs",
+              "ToolTip": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day5_6\\Day5_6\\Program.cs",
+              "RelativeToolTip": "Day5_6\\Program.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAgwCQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:00:22.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

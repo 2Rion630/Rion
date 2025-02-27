@@ -1,0 +1,7 @@
+C:\Users\microsoft\Desktop\RIon\Rion\Day5_7_Inventory\Day5_7_Inventory\bin\Debug\Day5_7_Inventory.exe.config
+C:\Users\microsoft\Desktop\RIon\Rion\Day5_7_Inventory\Day5_7_Inventory\bin\Debug\Day5_7_Inventory.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Day5_7_Inventory\Day5_7_Inventory\bin\Debug\Day5_7_Inventory.pdb
+C:\Users\microsoft\Desktop\RIon\Rion\Day5_7_Inventory\Day5_7_Inventory\obj\Debug\Day5_7_Inventory.csproj.AssemblyReference.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Day5_7_Inventory\Day5_7_Inventory\obj\Debug\Day5_7_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Day5_7_Inventory\Day5_7_Inventory\obj\Debug\Day5_7_Inventory.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Day5_7_Inventory\Day5_7_Inventory\obj\Debug\Day5_7_Inventory.pdb
