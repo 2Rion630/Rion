@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{980595F0-67FC-4A0E-95AA-E82F5ACF4E35}|Day10_Text_RPG\\Day10_Text_RPG.csproj|c:\\users\\microsoft\\desktop\\rion\\rion\\day10_text_rpg\\day10_text_rpg\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980595F0-67FC-4A0E-95AA-E82F5ACF4E35}|Day10_Text_RPG\\Day10_Text_RPG.csproj|solutionrelative:day10_text_rpg\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980595F0-67FC-4A0E-95AA-E82F5ACF4E35}|Day10_Text_RPG\\Day10_Text_RPG.csproj|C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\day10_text_rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980595F0-67FC-4A0E-95AA-E82F5ACF4E35}|Day10_Text_RPG\\Day10_Text_RPG.csproj|solutionrelative:day10_text_rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980595F0-67FC-4A0E-95AA-E82F5ACF4E35}|Day10_Text_RPG\\Day10_Text_RPG.csproj|C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\day10_text_rpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980595F0-67FC-4A0E-95AA-E82F5ACF4E35}|Day10_Text_RPG\\Day10_Text_RPG.csproj|solutionrelative:day10_text_rpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980595F0-67FC-4A0E-95AA-E82F5ACF4E35}|Day10_Text_RPG\\Day10_Text_RPG.csproj|C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\day10_text_rpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980595F0-67FC-4A0E-95AA-E82F5ACF4E35}|Day10_Text_RPG\\Day10_Text_RPG.csproj|solutionrelative:day10_text_rpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980595F0-67FC-4A0E-95AA-E82F5ACF4E35}|Day10_Text_RPG\\Day10_Text_RPG.csproj|C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\day10_text_rpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980595F0-67FC-4A0E-95AA-E82F5ACF4E35}|Day10_Text_RPG\\Day10_Text_RPG.csproj|solutionrelative:day10_text_rpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980595F0-67FC-4A0E-95AA-E82F5ACF4E35}|Day10_Text_RPG\\Day10_Text_RPG.csproj|C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\day10_text_rpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980595F0-67FC-4A0E-95AA-E82F5ACF4E35}|Day10_Text_RPG\\Day10_Text_RPG.csproj|solutionrelative:day10_text_rpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\Day10_Text_RPG\\Player.cs",
+              "RelativeDocumentMoniker": "Day10_Text_RPG\\Player.cs",
+              "ToolTip": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\Day10_Text_RPG\\Player.cs",
+              "RelativeToolTip": "Day10_Text_RPG\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:05:20.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\Day10_Text_RPG\\MainGame.cs",
+              "RelativeDocumentMoniker": "Day10_Text_RPG\\MainGame.cs",
+              "ToolTip": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\Day10_Text_RPG\\MainGame.cs",
+              "RelativeToolTip": "Day10_Text_RPG\\MainGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:04:06.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\Day10_Text_RPG\\Field.cs",
+              "RelativeDocumentMoniker": "Day10_Text_RPG\\Field.cs",
+              "ToolTip": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\Day10_Text_RPG\\Field.cs",
+              "RelativeToolTip": "Day10_Text_RPG\\Field.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:03:49.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\Day10_Text_RPG\\Monster.cs",
+              "RelativeDocumentMoniker": "Day10_Text_RPG\\Monster.cs",
+              "ToolTip": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\Day10_Text_RPG\\Monster.cs",
+              "RelativeToolTip": "Day10_Text_RPG\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:03:38.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\Day10_Text_RPG\\Character.cs",
+              "RelativeDocumentMoniker": "Day10_Text_RPG\\Character.cs",
+              "ToolTip": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\Day10_Text_RPG\\Character.cs",
+              "RelativeToolTip": "Day10_Text_RPG\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:03:19.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\Day10_Text_RPG\\Program.cs",
+              "RelativeDocumentMoniker": "Day10_Text_RPG\\Program.cs",
+              "ToolTip": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Text_RPG\\Day10_Text_RPG\\Program.cs",
+              "RelativeToolTip": "Day10_Text_RPG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:02:38.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\microsoft\Desktop\RIon\Rion\Day7_1\Day7_1\bin\Debug\Day7_1.exe.config
+C:\Users\microsoft\Desktop\RIon\Rion\Day7_1\Day7_1\bin\Debug\Day7_1.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Day7_1\Day7_1\bin\Debug\Day7_1.pdb
+C:\Users\microsoft\Desktop\RIon\Rion\Day7_1\Day7_1\obj\Debug\Day7_1.csproj.AssemblyReference.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Day7_1\Day7_1\obj\Debug\Day7_1.csproj.CoreCompileInputs.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Day7_1\Day7_1\obj\Debug\Day7_1.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Day7_1\Day7_1\obj\Debug\Day7_1.pdb

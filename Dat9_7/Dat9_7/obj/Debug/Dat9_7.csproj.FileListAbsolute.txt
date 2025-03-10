@@ -1,0 +1,7 @@
+C:\Users\microsoft\Desktop\RIon\Rion\Dat9_7\Dat9_7\bin\Debug\Dat9_7.exe.config
+C:\Users\microsoft\Desktop\RIon\Rion\Dat9_7\Dat9_7\bin\Debug\Dat9_7.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Dat9_7\Dat9_7\bin\Debug\Dat9_7.pdb
+C:\Users\microsoft\Desktop\RIon\Rion\Dat9_7\Dat9_7\obj\Debug\Dat9_7.csproj.AssemblyReference.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Dat9_7\Dat9_7\obj\Debug\Dat9_7.csproj.CoreCompileInputs.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Dat9_7\Dat9_7\obj\Debug\Dat9_7.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Dat9_7\Dat9_7\obj\Debug\Dat9_7.pdb

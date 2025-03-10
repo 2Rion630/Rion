@@ -1,0 +1,7 @@
+C:\Users\microsoft\Desktop\RIon\Rion\Day9_Text_RPG\Day9_Text_RPG\bin\Debug\Day9_Text_RPG.exe.config
+C:\Users\microsoft\Desktop\RIon\Rion\Day9_Text_RPG\Day9_Text_RPG\bin\Debug\Day9_Text_RPG.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Day9_Text_RPG\Day9_Text_RPG\bin\Debug\Day9_Text_RPG.pdb
+C:\Users\microsoft\Desktop\RIon\Rion\Day9_Text_RPG\Day9_Text_RPG\obj\Debug\Day9_Text_RPG.csproj.AssemblyReference.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Day9_Text_RPG\Day9_Text_RPG\obj\Debug\Day9_Text_RPG.csproj.CoreCompileInputs.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Day9_Text_RPG\Day9_Text_RPG\obj\Debug\Day9_Text_RPG.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Day9_Text_RPG\Day9_Text_RPG\obj\Debug\Day9_Text_RPG.pdb

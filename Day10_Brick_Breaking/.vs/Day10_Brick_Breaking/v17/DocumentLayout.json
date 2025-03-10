@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43C66926-0C12-4C15-AAC1-2A1892C9E630}|Day10_Brick_Breaking\\Day10_Brick_Breaking.csproj|c:\\users\\microsoft\\desktop\\rion\\rion\\day10_brick_breaking\\day10_brick_breaking\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C66926-0C12-4C15-AAC1-2A1892C9E630}|Day10_Brick_Breaking\\Day10_Brick_Breaking.csproj|solutionrelative:day10_brick_breaking\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C66926-0C12-4C15-AAC1-2A1892C9E630}|Day10_Brick_Breaking\\Day10_Brick_Breaking.csproj|C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\day10_brick_breaking\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C66926-0C12-4C15-AAC1-2A1892C9E630}|Day10_Brick_Breaking\\Day10_Brick_Breaking.csproj|solutionrelative:day10_brick_breaking\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C66926-0C12-4C15-AAC1-2A1892C9E630}|Day10_Brick_Breaking\\Day10_Brick_Breaking.csproj|C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\day10_brick_breaking\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C66926-0C12-4C15-AAC1-2A1892C9E630}|Day10_Brick_Breaking\\Day10_Brick_Breaking.csproj|solutionrelative:day10_brick_breaking\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C66926-0C12-4C15-AAC1-2A1892C9E630}|Day10_Brick_Breaking\\Day10_Brick_Breaking.csproj|C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\day10_brick_breaking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C66926-0C12-4C15-AAC1-2A1892C9E630}|Day10_Brick_Breaking\\Day10_Brick_Breaking.csproj|solutionrelative:day10_brick_breaking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C66926-0C12-4C15-AAC1-2A1892C9E630}|Day10_Brick_Breaking\\Day10_Brick_Breaking.csproj|C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\day10_brick_breaking\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C66926-0C12-4C15-AAC1-2A1892C9E630}|Day10_Brick_Breaking\\Day10_Brick_Breaking.csproj|solutionrelative:day10_brick_breaking\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C66926-0C12-4C15-AAC1-2A1892C9E630}|Day10_Brick_Breaking\\Day10_Brick_Breaking.csproj|C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\day10_brick_breaking\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C66926-0C12-4C15-AAC1-2A1892C9E630}|Day10_Brick_Breaking\\Day10_Brick_Breaking.csproj|solutionrelative:day10_brick_breaking\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C66926-0C12-4C15-AAC1-2A1892C9E630}|Day10_Brick_Breaking\\Day10_Brick_Breaking.csproj|C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\day10_brick_breaking\\blockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C66926-0C12-4C15-AAC1-2A1892C9E630}|Day10_Brick_Breaking\\Day10_Brick_Breaking.csproj|solutionrelative:day10_brick_breaking\\blockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C66926-0C12-4C15-AAC1-2A1892C9E630}|Day10_Brick_Breaking\\Day10_Brick_Breaking.csproj|C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\day10_brick_breaking\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C66926-0C12-4C15-AAC1-2A1892C9E630}|Day10_Brick_Breaking\\Day10_Brick_Breaking.csproj|solutionrelative:day10_brick_breaking\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BLOCKDATA.cs",
+              "DocumentMoniker": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\Day10_Brick_Breaking\\BLOCKDATA.cs",
+              "RelativeDocumentMoniker": "Day10_Brick_Breaking\\BLOCKDATA.cs",
+              "ToolTip": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\Day10_Brick_Breaking\\BLOCKDATA.cs",
+              "RelativeToolTip": "Day10_Brick_Breaking\\BLOCKDATA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:49:46.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\Day10_Brick_Breaking\\Block.cs",
+              "RelativeDocumentMoniker": "Day10_Brick_Breaking\\Block.cs",
+              "ToolTip": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\Day10_Brick_Breaking\\Block.cs",
+              "RelativeToolTip": "Day10_Brick_Breaking\\Block.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:20:13.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\Day10_Brick_Breaking\\Ball.cs",
+              "RelativeDocumentMoniker": "Day10_Brick_Breaking\\Ball.cs",
+              "ToolTip": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\Day10_Brick_Breaking\\Ball.cs",
+              "RelativeToolTip": "Day10_Brick_Breaking\\Ball.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAswAoBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:43:28.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bar.cs",
+              "DocumentMoniker": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\Day10_Brick_Breaking\\Bar.cs",
+              "RelativeDocumentMoniker": "Day10_Brick_Breaking\\Bar.cs",
+              "ToolTip": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\Day10_Brick_Breaking\\Bar.cs",
+              "RelativeToolTip": "Day10_Brick_Breaking\\Bar.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAswFUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:22:59.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BARDATA.cs",
+              "DocumentMoniker": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\Day10_Brick_Breaking\\BARDATA.cs",
+              "RelativeDocumentMoniker": "Day10_Brick_Breaking\\BARDATA.cs",
+              "ToolTip": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\Day10_Brick_Breaking\\BARDATA.cs",
+              "RelativeToolTip": "Day10_Brick_Breaking\\BARDATA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:24:57.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\Day10_Brick_Breaking\\GameManager.cs",
+              "RelativeDocumentMoniker": "Day10_Brick_Breaking\\GameManager.cs",
+              "ToolTip": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\Day10_Brick_Breaking\\GameManager.cs",
+              "RelativeToolTip": "Day10_Brick_Breaking\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:23:18.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BALLDATA.cs",
+              "DocumentMoniker": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\Day10_Brick_Breaking\\BALLDATA.cs",
+              "RelativeDocumentMoniker": "Day10_Brick_Breaking\\BALLDATA.cs",
+              "ToolTip": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\Day10_Brick_Breaking\\BALLDATA.cs",
+              "RelativeToolTip": "Day10_Brick_Breaking\\BALLDATA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:38:49.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\Day10_Brick_Breaking\\Program.cs",
+              "RelativeDocumentMoniker": "Day10_Brick_Breaking\\Program.cs",
+              "ToolTip": "C:\\Users\\microsoft\\Desktop\\RIon\\Rion\\Day10_Brick_Breaking\\Day10_Brick_Breaking\\Program.cs",
+              "RelativeToolTip": "Day10_Brick_Breaking\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAvwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:24:54.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\microsoft\Desktop\RIon\Rion\Day6_Shooting_Game\Day6_Shooting_Game\bin\Debug\Day6_Shooting_Game.exe.config
+C:\Users\microsoft\Desktop\RIon\Rion\Day6_Shooting_Game\Day6_Shooting_Game\bin\Debug\Day6_Shooting_Game.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Day6_Shooting_Game\Day6_Shooting_Game\bin\Debug\Day6_Shooting_Game.pdb
+C:\Users\microsoft\Desktop\RIon\Rion\Day6_Shooting_Game\Day6_Shooting_Game\obj\Debug\Day6_Shooting_Game.csproj.AssemblyReference.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Day6_Shooting_Game\Day6_Shooting_Game\obj\Debug\Day6_Shooting_Game.csproj.CoreCompileInputs.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Day6_Shooting_Game\Day6_Shooting_Game\obj\Debug\Day6_Shooting_Game.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Day6_Shooting_Game\Day6_Shooting_Game\obj\Debug\Day6_Shooting_Game.pdb

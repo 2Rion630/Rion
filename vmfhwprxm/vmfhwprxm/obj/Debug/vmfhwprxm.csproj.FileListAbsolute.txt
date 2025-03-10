@@ -1,0 +1,7 @@
+C:\Users\microsoft\Desktop\RIon\Rion\vmfhwprxm\vmfhwprxm\bin\Debug\vmfhwprxm.exe.config
+C:\Users\microsoft\Desktop\RIon\Rion\vmfhwprxm\vmfhwprxm\bin\Debug\vmfhwprxm.exe
+C:\Users\microsoft\Desktop\RIon\Rion\vmfhwprxm\vmfhwprxm\bin\Debug\vmfhwprxm.pdb
+C:\Users\microsoft\Desktop\RIon\Rion\vmfhwprxm\vmfhwprxm\obj\Debug\vmfhwprxm.csproj.AssemblyReference.cache
+C:\Users\microsoft\Desktop\RIon\Rion\vmfhwprxm\vmfhwprxm\obj\Debug\vmfhwprxm.csproj.CoreCompileInputs.cache
+C:\Users\microsoft\Desktop\RIon\Rion\vmfhwprxm\vmfhwprxm\obj\Debug\vmfhwprxm.exe
+C:\Users\microsoft\Desktop\RIon\Rion\vmfhwprxm\vmfhwprxm\obj\Debug\vmfhwprxm.pdb

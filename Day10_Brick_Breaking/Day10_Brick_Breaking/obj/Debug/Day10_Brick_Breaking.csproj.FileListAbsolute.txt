@@ -1,0 +1,7 @@
+C:\Users\microsoft\Desktop\RIon\Rion\Day10_Brick_Breaking\Day10_Brick_Breaking\bin\Debug\Day10_Brick_Breaking.exe.config
+C:\Users\microsoft\Desktop\RIon\Rion\Day10_Brick_Breaking\Day10_Brick_Breaking\bin\Debug\Day10_Brick_Breaking.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Day10_Brick_Breaking\Day10_Brick_Breaking\bin\Debug\Day10_Brick_Breaking.pdb
+C:\Users\microsoft\Desktop\RIon\Rion\Day10_Brick_Breaking\Day10_Brick_Breaking\obj\Debug\Day10_Brick_Breaking.csproj.AssemblyReference.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Day10_Brick_Breaking\Day10_Brick_Breaking\obj\Debug\Day10_Brick_Breaking.csproj.CoreCompileInputs.cache
+C:\Users\microsoft\Desktop\RIon\Rion\Day10_Brick_Breaking\Day10_Brick_Breaking\obj\Debug\Day10_Brick_Breaking.exe
+C:\Users\microsoft\Desktop\RIon\Rion\Day10_Brick_Breaking\Day10_Brick_Breaking\obj\Debug\Day10_Brick_Breaking.pdb
